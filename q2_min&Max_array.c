@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <limits.h>
+#include <limits.h> //gives INT_MIN & INT_MAX of C data types
 
 int main() {
     int n;

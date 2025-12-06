@@ -1,3 +1,9 @@
+// Problem: Array Subset of Another Array
+// Link: https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1
+// Approach: Sorting + Two Pointers
+// Time: O(m log m + n log n), Space: O(1)
+// Author: Sakshi Sadare
+
 #include <stdio.h>
 
 // Simple quicksort implementation

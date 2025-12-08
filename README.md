@@ -28,4 +28,5 @@ https://www.geeksforgeeks.org/explore?page=1&sprint=50746f92a895c22a50504ac0c1fb
 | No. | Problem | Approach | Code File |
 |----|----------|----------|-----------|
 | 1  | Array Subset of Another Array | Sorting + Two pointers | Q1_Array_Subset.c |
+| 2  | Min&Max array                 |                        | Q2_min&max_array.c|
 

@@ -15,7 +15,7 @@ void findDuplicates(int arr[], int n) {
 
     
     int found = 0;
-    for (int i = 1; i <= n; i++) {
+    for (int i = 1; i <=n; i++) {
         if (freq[i] == 2) {
             printf("%d ", i);
             found = 1;
@@ -23,7 +23,7 @@ void findDuplicates(int arr[], int n) {
     }
 
     if (!found) {
-        printf("[]");  // No duplicates
+        printf("[]");
     }
 }
 
